@@ -1,0 +1,9 @@
+movieId,title,genres,rating1,data
+1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,10,2020-10-01
+2, Jumanji,Adventure||Children|Fantasy,20,2021-04-23
+3, Grumpier Old Men,Comedy|Romance,30,2021-10-03
+4, Waiting to Exhale,Comedy|Drama|Romance,40,2024-12-30
+5,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,50,2021-05-14
+6, Jumanji,Adventure||Children|Fantasy,60,2021-12-06
+7, Grumpier Old Men,Comedy|Romance,70,2019-06-08
+8, Waiting to Exhale,Comedy|Drama|Romance,80,2017-09-07
